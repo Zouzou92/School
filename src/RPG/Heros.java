@@ -7,5 +7,5 @@ abstract class Heros {
 		arme = weapon;
 		pv = life;
 	}
-	
+	// test
 }
